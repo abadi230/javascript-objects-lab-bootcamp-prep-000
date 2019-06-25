@@ -27,4 +27,5 @@ function destructivelyDeleteFromObjectByKey(object, key){
   return object
 }
   */
+  var recipes = {}
   
